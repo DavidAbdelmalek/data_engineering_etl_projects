@@ -14,7 +14,9 @@ Before running the project, make sure you have the following requirements instal
 
 ## Architecture
 
-![Architecture Diagram](architecture.png)
+<div align="center">
+  <img src="architecture.png" alt="Architecture Diagram">
+</div>
 
 ## Installation
 
